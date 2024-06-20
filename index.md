@@ -1,21 +1,21 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
-
 <header>
   <div>
     <img src="./images/logo-NFP.png" alt="Nouveau Front Populaire" />
   </div>
 
   <div>
-    <h1>Le 30 juin et le 7 juillet, <br />votez NOM Prénom !</h1>
+    <h1>Le 30 juin et le 7 juillet, <br />votez Cécila FONSECA et Damien CHABRIÈRES !</h1>
   </div>
 </header>
 
 <section class="entete">
   <div>
-    <img alt="Nom Prénom candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
+    <img alt="Cécilia FONSECA candidate pour le Front Populaire le 30 juin" src="./images/candidate-1.jpeg">
 
     <div class="buttons">
       <div>
@@ -73,13 +73,13 @@ order: 0
     <article>
       <div>
         <!-- Ci-dessous la photo de votre candidat·e -->
-        <img alt="Nom Prénom candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
+        <img alt="Cécilé FONSECA candidate pour le Front Populaire le 30 juin" src="./images/candidate-1.jpeg">
       </div>
 
       <div>
-        <h2>Nom Prénom</h2>
+        <h2>Fonseca Cécilia</h2>
 
-        <!-- Ci-dessous 3 points à retenir sur votre candidat·e (faire court !) -->
+        <!-- Ci-dessous 3 points à retenir sur votre candidat·e (faire court !) 
         <ul>
           <li>
             Point à retenir sur notre candidat·e numéro 1
@@ -90,23 +90,23 @@ order: 0
           <li>
             Point à retenir sur notre candidat·e numéro 3
           </li>
-        </ul>
+        </ul> -->
       
-        <!-- Ci-dessous un petit texte reprenant 2 ou 3 mesures nationales en les déclinant sur les impacts locaux. -->
-        <p>Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux.</p>
+        <!-- Ci-dessous un petit texte reprenant 2 ou 3 mesures nationales en les déclinant sur les impacts locaux. 
+        <p>Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux.</p> -->
       </div>
     </article>
   
     <article>
       <div>
         <!-- Si besoin car non présent·e sur la 1e photo, ci-dessous la photo de votre suppléant·e -->
-        <img alt="Nom Prénom suppléante pour le Front Populaire le 30 juin" src="./images/candidate-2.png">
+        <img alt="Damien Chabrières suppléant pour le Front Populaire le 30 juin" src="./images/candidat-2.png">
       </div>
 
       <div>
-        <h2>Nom Prénom - suppléante</h2>
+        <h2>Chabrières Damien - suppléant </h2>
 
-        <!-- Ci-dessous 3 points à retenir sur votre suppléant·e (faire court !) -->
+        <!-- Ci-dessous 3 points à retenir sur votre suppléant·e (faire court !)
         <ul>
           <li>
             Point à retenir sur notre suppléant·e 1
@@ -117,21 +117,23 @@ order: 0
           <li>
             Point à retenir sur notre suppléant·e 3
           </li>
-        </ul>
+        </ul> -->
 
-        <!-- Ci-dessous un petit texte reprenant 2 ou 3 mesures nationales en les déclinant sur les impacts locaux. -->
-        <p>Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux.</p>
+        <!-- Ci-dessous un petit texte reprenant 2 ou 3 mesures nationales en les déclinant sur les impacts locaux.
+        <p>Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux.</p> -->
       </div>
     </article>
   </div>
 </section>
 
+<!--
 <section class="contact">
   <div>
     <h2>Nous contacter</h2>
     <p>Écrivez-nous à <a href="mailto:nomdumail@blabla.com">nomdumail@blabla.com</a></p>
   </div>
 </section>
+-->
 
 <section class="logos_partis">
   <div>
@@ -195,10 +197,10 @@ order: 0
     <h2>Le 30&nbsp;juin et le 7&nbsp;juillet, votez et faites voter autour de vous !</h2>
     
     <!-- Ci-dessous listez les villes de votre circonscription pour aider les moteurs de recherche à trouver votre site -->
-    <p>Que vous soyez électeur ou électrice à Nom de ville 1, Nom de ville 2, Nom de ville 3… chaque vote compte pour empêcher l'extrême-droite d'arriver au pouvoir !</p>
+    <p>Que vous soyez électeur ou électrice à Saint-André de Cubzac, Coutras, Saint-Savin… chaque vote compte pour empêcher l'extrême-droite d'arriver au pouvoir !</p>
   </div>
 </section>
 
 <section class="footer">
-    Candidature de la X circonscription de Y.
-</section>
+    Candidature de la 11è circonscription de la Gironde (33).
+</section> 
