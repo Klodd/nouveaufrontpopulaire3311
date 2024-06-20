@@ -9,7 +9,7 @@ in_menu: true
   </div>
 
   <div>
-    <h1>Le 30 juin et le 7 juillet, <br />votez Cécila FONSECA et Damien CHABRIÈRES !</h1>
+    <h1>Le 30 juin et le 7 juillet, <br />votez Cécila FONSECA !</h1>
   </div>
 </header>
 
