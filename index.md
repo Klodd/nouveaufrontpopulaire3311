@@ -73,24 +73,24 @@ in_menu: true
     <article>
       <div>
         <!-- Ci-dessous la photo de votre candidat·e -->
-        <img alt="Cécilé FONSECA candidate pour le Front Populaire le 30 juin" src="./images/candidate-1.jpeg">
+        <img alt="Cécilia FONSECA candidate pour le Front Populaire le 30 juin" src="./images/candidate-1.jpeg">
       </div>
 
       <div>
         <h2>Fonseca Cécilia</h2>
 
-        <!-- Ci-dessous 3 points à retenir sur votre candidat·e (faire court !) 
+        Ci-dessous 3 points à retenir sur votre candidate :
         <ul>
           <li>
-            Point à retenir sur notre candidat·e numéro 1
+            47 ans, 3 enfants
           </li>
           <li>
-            Point à retenir sur notre candidat·e numéro 2
+            Fonctionnaire
           </li>
           <li>
-            Point à retenir sur notre candidat·e numéro 3
+            Militante syndicale pour la défense des services publics et responsable d'une association d'aide aux personnes à la rue et en situation de précarité.
           </li>
-        </ul> -->
+        </ul>
       
         <!-- Ci-dessous un petit texte reprenant 2 ou 3 mesures nationales en les déclinant sur les impacts locaux. 
         <p>Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux.</p> -->
@@ -100,24 +100,24 @@ in_menu: true
     <article>
       <div>
         <!-- Si besoin car non présent·e sur la 1e photo, ci-dessous la photo de votre suppléant·e -->
-        <img alt="Damien Chabrières suppléant pour le Front Populaire le 30 juin" src="./images/candidat-2.png">
+        <img alt="Damien Chabrières suppléant pour le Front Populaire le 30 juin" src="./images/candidat-2.jpeg">
       </div>
 
       <div>
         <h2>Chabrières Damien - suppléant </h2>
 
-        <!-- Ci-dessous 3 points à retenir sur votre suppléant·e (faire court !)
+        Ci-dessous 3 points à retenir sur votre suppléant :
         <ul>
           <li>
-            Point à retenir sur notre suppléant·e 1
+            49 ans, 2 enfants
           </li>
           <li>
-            Point à retenir sur notre suppléant·e 2
+            Éducateur de vie scolaire, engagé dans le syndicat Éduc'action, en particulier dans la lutte pour obtenir la CDIsation des assistants d'éducation en collèges et lycées publics.
           </li>
           <li>
-            Point à retenir sur notre suppléant·e 3
+            Militant depuis plus de 20 ans, œuvre pour le rapprochement des forces de gauche sur notre territoire de la 11ème circonscription de Gironde
           </li>
-        </ul> -->
+        </ul>
 
         <!-- Ci-dessous un petit texte reprenant 2 ou 3 mesures nationales en les déclinant sur les impacts locaux.
         <p>Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux.</p> -->
@@ -126,14 +126,14 @@ in_menu: true
   </div>
 </section>
 
-<!--
+
 <section class="contact">
   <div>
     <h2>Nous contacter</h2>
-    <p>Écrivez-nous à <a href="mailto:nomdumail@blabla.com">nomdumail@blabla.com</a></p>
+    <p>Écrivez-nous à <a href="mailto:union.populaire.gironde11@gmail.com">union.populaire.gironde11@gmail.com</a></p>
   </div>
 </section>
--->
+
 
 <section class="logos_partis">
   <div>
