@@ -1,5 +1,5 @@
 ---
-title: "Accueil"
+title: "Nouveau front populaire - 11e circonscription de la Gironde"
 order: 0
 in_menu: true
 ---
